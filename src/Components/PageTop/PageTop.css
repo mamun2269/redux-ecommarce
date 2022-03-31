@@ -1,0 +1,29 @@
+
+
+
+.pageTop_section{
+    padding: 100px 0;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)) ,url(../../images/pTop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.top_title{
+    font-size:25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.pageTop_wrrap,
+.home_link,
+.recent_page{
+    color: #f1f1f1;
+    font-size:18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.recent_page{
+    color: #080100;
+}
+.home_link:hover{
+    color: #fff;
+}
